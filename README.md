@@ -62,7 +62,7 @@ In this part, it would given the result from ICP implement with the following se
 
 At first, I achieve the basic registration in single frame. Set the target poinclouds as`frame1.xyz`&`frame11.xyz`
 
-<img src="/result/single_unregistration.jpg" width = "80%" /> <img src=/result/"single_registration.png" width = "80%" />
+<img src="/result/single_unregistration.jpg" width = "80%" /> <img src="/result/single_registration.png" width = "80%" />
 
 The former one is the unregistration situation, which is obviously unaligned.
 
