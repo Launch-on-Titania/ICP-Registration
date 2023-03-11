@@ -75,4 +75,4 @@ Tn this part, I set the`frame1.xyz`as the target (groundtruth), and the `Transfo
     [-5.30963638e-04, -1.00238784e-03,  9.99999357e-01, -1.37084380e-03],
     [ 0.00000000e+00,  0.00000000e+00,  0.00000000e+00,  1.00000000e+00]]
 
-Through this matrix, it easily accomplished the registration between`frame1.xyz`(target)and`frame.xyz`(source).
+Through this matrix, it easily accomplished the registration between`frame1.xyz`(target)and`frame11.xyz`(source).
