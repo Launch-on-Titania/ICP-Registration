@@ -24,9 +24,9 @@ Achieved the loading of pointclouds, then apply the data to the ICP algorithm.
 
 In this part, it shows the simple implement of ICP algriothm.
 
-    def icp(source, target, sample_num=5000,
-    max_iteration=80, torlearence=1e-6, kdtree=True, 
-    Down_Sample=True):
+    def icp(source, target, sample_num=500, 
+    max_iteration=80, tolerance=1e-6, 
+    Off_State_kdtree=False, Down_Sample=True):
 
 The following is my achievement pipeline：
 
